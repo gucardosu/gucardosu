@@ -1,5 +1,5 @@
 <p align="center">
-  Estudante de Desenvolvimento Back-end | Node.js • SQL • Go
+  Estudante de Desenvolvimento Back-end | Node.js • SQL
 </p>
 
 <h1 align="center">Olá! Sou o Gustavo João Cardoso</h1>
@@ -22,7 +22,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento Back-end**.
 
-Atualmente estudo e pratico **Node.js**, **bancos de dados SQL** e **APIs REST**, aplicando esses conceitos em projetos pessoais e exercícios práticos. Também estou iniciando meus estudos em **Go (Golang)** para ampliar minha visão sobre back-end e performance.
+Atualmente estudo e pratico **Node.js**, **bancos de dados SQL** e **APIs REST**, aplicando esses conceitos em projetos pessoais e exercícios práticos.
 
 Possuo **experiência acadêmica e prática com Java**, o que fortaleceu minha base em **lógica de programação** e **orientação a objetos**. No momento, estou estudando **testes unitários**, buscando escrever código mais confiável e fácil de manter.
 
@@ -45,7 +45,6 @@ Busco uma **oportunidade de estágio em desenvolvimento Back-end**, onde eu poss
 ## 📚 Conhecimentos Complementares
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go_(Golang)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
@@ -57,43 +56,3 @@ Busco uma **oportunidade de estágio em desenvolvimento Back-end**, onde eu poss
 </p>
 
 ---
-
-## 🚀 Projetos e Estudos
-
-### TechShop MVP — API Back-end (Projeto de Estudo)
-Projeto desenvolvido para praticar conceitos de back-end:
-- API REST com Node.js e Express
-- Regras de negócio básicas
-- Integração com PostgreSQL
-- Organização de código e boas práticas
-
-### Projetos Acadêmicos e Exercícios
-Repositórios voltados para:
-- Lógica de programação
-- JavaScript e Node.js
-- SQL
-- Estudos em Java
-- Introdução a testes unitários
-
----
-
-## 🎯 Objetivo
-
-Atuar como **estagiário em desenvolvimento Back-end**, com foco em:
-- Aprender boas práticas de desenvolvimento
-- Apoiar na construção e manutenção de APIs
-- Trabalhar com bancos de dados
-- Evoluir em testes e arquitetura de software
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="mailto:gustavocardosodot@gmail.com">
-    <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5548992045316">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
-  </a>
-</p>
