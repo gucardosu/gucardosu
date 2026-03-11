@@ -51,3 +51,12 @@ https://linkedin.com/in/gustavojoãocardoso
 
 Portfólio  
 https://gustavo-cardoso-portfolio.vercel.app
+
+---
+
+## Estatísticas do GitHub
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gucardosu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucardosu&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
