@@ -35,11 +35,9 @@
 ## Atualmente estudando
 
 • Node.js  
-• React  
-• PostgreSQL  
+• React   
 • Banco de dados SQL  
 • APIs REST  
-• Testes unitários
 
 ---
 
