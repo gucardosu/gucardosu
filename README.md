@@ -2,8 +2,7 @@
 
 • Estudante de Análise e Desenvolvimento de Sistemas  
 • Focado em Desenvolvimento Back-end  
-• Estudando Node.js, React, PostgreSQL, SQL e APIs REST  
-• Usuário de Linux  
+• Estudando Node.js, React, PostgreSQL, SQL e APIs REST   
 • Buscando estágio em desenvolvimento
 
 ---
