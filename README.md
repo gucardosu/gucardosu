@@ -2,7 +2,7 @@
 
 • Estudante de Análise e Desenvolvimento de Sistemas  
 • Focado em Desenvolvimento Back-end  
-• Estudando Node.js, React, PostgreSQL, SQL e APIs REST   
+• Focado no ecossistema C# / .NET, com base sólida em Node.js e React  
 • Buscando estágio em desenvolvimento
 
 ---
@@ -10,7 +10,7 @@
 ## Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java" />
+<img src="https://skillicons.dev/icons?i=cs,js,ts" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ## Tecnologias e Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,postgres,git,vscode" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,postgres,git,visualstudio,vscode" />
 </p>
 
 ---
@@ -33,10 +33,10 @@
 
 ## Atualmente estudando
 
-• Node.js  
-• React   
-• Banco de dados SQL  
-• APIs REST  
+• C# e Programação Orientada a Objetos (POO)  
+• ASP.NET Core (APIs REST)  
+• Banco de Dados Relacionais (PostgreSQL / SQL Server)  
+• Arquitetura de Software e Boas Práticas  
 
 ---
 
