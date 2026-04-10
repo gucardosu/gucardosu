@@ -1,8 +1,8 @@
 # Gustavo João Cardoso
 
 • Estudante de Análise e Desenvolvimento de Sistemas  
-• Focado em Desenvolvimento Back-end  
-• Focado no ecossistema C# / .NET, com base sólida em Node.js e React  
+• Focado em Desenvolvimento Fullstack
+• Focado no ecossistema JavaScript, com base sólida em Node.js e React
 • Buscando estágio em desenvolvimento
 
 ---
