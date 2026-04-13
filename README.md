@@ -21,14 +21,14 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistem
 ### Frontend & Backend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
   </a>
 </p>
 
 ### Banco de Dados & Infra
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,git,docker,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,git,docker,linux,vscode" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistem
 
 ## 📂 Projetos de Destaque
 * **TechShop:** E-commerce Fullstack com autenticação JWT, RBAC e PostgreSQL.
-* **Finanças simples:** Projeto Fullstack de finanças com React.js, Node.js Express e ORM Prisma.
+* **Finanças Simples:** Projeto Fullstack de finanças com React.js, Node.js Express e ORM Prisma.
 * **URL Shortener:** API de encurtamento de links com métricas de cliques e persistência em banco.
 * **Studio Figueiredo:** Catálogo digital focado em UX e conversão de clientes.
 
