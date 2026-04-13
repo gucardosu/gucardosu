@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre Mim
-Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistema **JavaScript/TypeScript**. Atualmente atuo como Jovem Aprendiz e desenvolvo projetos freelance, onde aplico conceitos de arquitetura de software, bancos de dados relacionais e interfaces responsivas. Meu foco é evoluir tecnicamente em ambientes que utilizam metodologias ágeis e tecnologias modernas.
+Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistema **JavaScript**. Atualmente atuo como Jovem Aprendiz e desenvolvo projetos freelance, onde aplico conceitos de arquitetura de software, bancos de dados relacionais e interfaces responsivas. Meu foco é evoluir tecnicamente em ambientes que utilizam metodologias ágeis e tecnologias modernas.
 
 ---
 
@@ -14,7 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistem
 ### Linguagens e Core
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
 </p>
 
@@ -35,9 +35,9 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistem
 ---
 
 ## 📚 Especialidades & Estudos Atuais
-* **Backend:** Construção de APIs REST robustas com Node.js e integração com ORMs (Prisma/TypeORM).
+* **Backend:** Construção de APIs REST robustas com Node.js e integração com Prisma ORM.
 * **Frontend:** Desenvolvimento de interfaces performáticas, SPA e SSR com React e Next.js.
-* **Qualidade de Código:** TypeScript para tipagem estática e princípios de Clean Code/SOLID.
+* **Qualidade de Código:** Aplicação de princípios de Clean Code, componentização e boas práticas estruturais no ecossistema JavaScript.
 * **Banco de Dados:** Modelagem relacional com PostgreSQL e NoSQL com MongoDB.
 
 ---
