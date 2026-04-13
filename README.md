@@ -36,14 +36,15 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistem
 
 ## 📚 Especialidades & Estudos Atuais
 * **Backend:** Construção de APIs REST robustas com Node.js e integração com Prisma ORM.
-* **Frontend:** Desenvolvimento de interfaces performáticas, SPA e SSR com React e Next.js.
+* **Frontend:** Desenvolvimento de interfaces performáticas, SPA e SSR com React.
 * **Qualidade de Código:** Aplicação de princípios de Clean Code, componentização e boas práticas estruturais no ecossistema JavaScript.
-* **Banco de Dados:** Modelagem relacional com PostgreSQL e NoSQL com MongoDB.
+* **Banco de Dados:** Modelagem relacional com PostgreSQL.
 
 ---
 
 ## 📂 Projetos de Destaque
 * **TechShop:** E-commerce Fullstack com autenticação JWT, RBAC e PostgreSQL.
+* **Finanças simples:** Projeto Fullstack de finanças com React.js, Node.js Express e ORM Prisma.
 * **URL Shortener:** API de encurtamento de links com métricas de cliques e persistência em banco.
 * **Studio Figueiredo:** Catálogo digital focado em UX e conversão de clientes.
 
