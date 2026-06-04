@@ -1,11 +1,11 @@
 # Gustavo João Cardoso
 
-**Desenvolvedor Fullstack JavaScript | Estudante de ADS** *Buscando estágio para aplicar soluções modernas e escaláveis com Node.js e React.*
+**Desenvolvedor Fullstack | Estudante de ADS** *Buscando estágio para aplicar soluções modernas e escaláveis com Node.js, PHP e React.*
 
 ---
 
 ## 🚀 Sobre Mim
-Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistema **JavaScript**. Atualmente atuo como Jovem Aprendiz e desenvolvo projetos freelance, onde aplico conceitos de arquitetura de software, bancos de dados relacionais e interfaces responsivas. Meu foco é evoluir tecnicamente em ambientes que utilizam metodologias ágeis e tecnologias modernas.
+Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistema **WEB**. Atualmente desenvolvo projetos freelance, onde aplico conceitos de arquitetura de software, bancos de dados relacionais e interfaces responsivas. Meu foco é evoluir tecnicamente em ambientes que utilizam metodologias ágeis e tecnologias modernas.
 
 ---
 
