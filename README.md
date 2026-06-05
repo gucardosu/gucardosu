@@ -1,6 +1,7 @@
 # Gustavo João Cardoso
 
-**Desenvolvedor Fullstack | Estudante de ADS** *Buscando estágio para aplicar soluções modernas e escaláveis com Node.js, PHP e React.*
+**Web Developer | Node.js | React | JavaScript | PostgreSQL | MySQL | PHP**
+*Buscando estágio para aplicar soluções modernas e escaláveis.*
 
 ---
 
@@ -14,7 +15,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistem
 ### Linguagens e Core
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php" />
   </a>
 </p>
 
@@ -28,24 +29,25 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistem
 ### Banco de Dados & Infra
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,prisma,git,docker,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,git,docker,linux,vscode" />
   </a>
 </p>
 
 ---
 
 ## 📚 Especialidades & Estudos Atuais
-* **Backend:** Construção de APIs REST robustas com Node.js e integração com Prisma ORM.
+* **Backend:** Construção de APIs REST robustas com Node.js e manutenção de sistemas em PHP.
 * **Frontend:** Desenvolvimento de interfaces performáticas, SPA e SSR com React.
-* **Qualidade de Código:** Aplicação de princípios de Clean Code, componentização e boas práticas estruturais no ecossistema JavaScript.
-* **Banco de Dados:** Modelagem relacional com PostgreSQL.
+* **Qualidade de Código:** Aplicação de princípios de Clean Code, componentização e boas práticas estruturais.
+* **Banco de Dados:** Modelagem e otimização relacional com PostgreSQL e MySQL.
 
 ---
 
 ## 📂 Projetos de Destaque
 * **TechShop:** E-commerce Fullstack com autenticação JWT, RBAC e PostgreSQL.
-* **Finanças Simples:** Projeto Fullstack de finanças com React.js, Node.js Express e ORM Prisma.
-* **URL Shortener:** API de encurtamento de links com métricas de cliques e persistência em banco.
+* **Finanças Simples:** Projeto Fullstack de finanças com React.js, Node.js, Express e ORM Prisma.
+* **Workflow:** Gerenciador de tarefas com PHP puro, MySQL e arquitetura de Soft Delete.
+* **URL Shortener:** API de encurtamento de links com persistência em banco.
 * **Studio Figueiredo:** Catálogo digital focado em UX e conversão de clientes.
 
 ---
