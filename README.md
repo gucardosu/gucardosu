@@ -1,12 +1,12 @@
 # Gustavo João Cardoso
 
-**Web Developer | Node.js | React | JavaScript | PostgreSQL | MySQL | PHP**
-*Buscando estágio para aplicar soluções modernas e escaláveis.*
+**Web Developer | Node.js | React | Angular | TypeScript | PostgreSQL**
+*Desenvolvedor Web Júnior focado em criar soluções modernas, seguras e escaláveis.*
 
 ---
 
 ## 🚀 Sobre Mim
-Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistema **WEB**. Atualmente desenvolvo projetos freelance, onde aplico conceitos de arquitetura de software, bancos de dados relacionais e interfaces responsivas. Meu foco é evoluir tecnicamente em ambientes que utilizam metodologias ágeis e tecnologias modernas.
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Web Júnior. Tenho uma base sólida no ecossistema JavaScript (Node.js e React), complementada pela vivência prática na construção de APIs, modelagem de bancos de dados relacionais e entrega de projetos com regras de negócio complexas. Atualmente, estou expandindo minha stack para o ecossistema **Angular** e **TypeScript**, atuando na criação e manutenção de sistemas corporativos, sempre prezando por código limpo e metodologias ágeis.
 
 ---
 
@@ -15,14 +15,14 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistem
 ### Linguagens e Core
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,php" />
   </a>
 </p>
 
 ### Frontend & Backend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express" />
   </a>
 </p>
 
@@ -36,10 +36,11 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco total no ecossistem
 ---
 
 ## 📚 Especialidades & Estudos Atuais
-* **Backend:** Construção de APIs REST robustas com Node.js e manutenção de sistemas em PHP.
-* **Frontend:** Desenvolvimento de interfaces performáticas, SPA e SSR com React.
-* **Qualidade de Código:** Aplicação de princípios de Clean Code, componentização e boas práticas estruturais.
-* **Banco de Dados:** Modelagem e otimização relacional com PostgreSQL e MySQL.
+* **Backend:** Construção de APIs REST robustas com Node.js e estruturação lógica.
+* **Frontend:** Desenvolvimento de interfaces performáticas, SPA e SSR utilizando React e **Angular**.
+* **Linguagens e Tipagem:** Transição e aprofundamento em **TypeScript** para garantir segurança e escalabilidade no código.
+* **Qualidade de Código:** Aplicação de princípios de Clean Code, componentização inteligente e boas práticas estruturais.
+* **Banco de Dados:** Modelagem, otimização relacional e controle de acesso com PostgreSQL e MySQL.
 
 ---
 
